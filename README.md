@@ -1,2 +1,2 @@
 # coolweather
-This is a class projectr 
+This is a class projectr
